@@ -1,0 +1,1 @@
+This repository demonstrates a subtle issue that can occur when using the `sort` method with custom comparison functions in TypeScript.  The `compare` function appears to be correctly implemented, but there might be edge cases that lead to unexpected behavior.  The solution demonstrates how to robustly handle potential issues.
